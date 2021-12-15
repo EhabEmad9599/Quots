@@ -38,6 +38,7 @@ body {
     cursor: pointer;
     color:#FFF;
     font-size: 20px;
+    outline: none;
 }
 .container .quote button:hover {
     background:#17A2B8;
